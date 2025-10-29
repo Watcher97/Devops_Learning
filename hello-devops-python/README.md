@@ -13,7 +13,7 @@ python -m venv .venv; .\.venv\Scripts\Activate.ps1; pip install -r requirements.
 2. Run the app
 
 ```powershell
-python app.py Dennis
+python app.py <name>
 ```
 
 3. Run tests
