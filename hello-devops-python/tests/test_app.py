@@ -14,7 +14,7 @@ import pytest
 
 def test_greeting_with_name():
     """greeting should return a formatted hello for a provided name."""
-    assert greeting("Dennis") == "Hello, Dennis!"
+    assert greeting("watcher") == "Hello, watcher!"
 
 
 def test_greeting_empty_or_whitespace():
