@@ -35,4 +35,8 @@ docker run --rm hello-devops-py
 ```
 
 4. Learn More
-- I am adding it from feature branch.
+- Python documentation — https://docs.python.org/3/ (language reference and standard library)
+- pytest — https://docs.pytest.org/ (testing framework used by this project)
+- Docker (getting started) — https://docs.docker.com/get-started/ (build and run containers)
+- GitHub Actions — https://docs.github.com/actions (CI/CD workflows and example pipelines)
+- Dockerizing a Python app — https://docs.docker.com/samples/python/ (reference example for Dockerfiles and containerizing)
